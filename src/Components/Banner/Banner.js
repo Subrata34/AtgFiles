@@ -7,7 +7,7 @@ const Banner = () => {
       <div className="banner">
         <div>
           <h2 className="banner-text">Computer Engineering</h2>
-          <h6>14,2765 Computer Engineers Followers</h6>
+          <h6 style={{paddingRight:"300px"}}>14,2765 Computer Engineers Followers</h6>
         </div>
       </div>
     </div>
