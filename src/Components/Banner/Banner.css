@@ -1,0 +1,14 @@
+.banner{
+    color: beige;
+    background-image: url(../../Image/labtop.jpg);
+    background-size:cover;
+    height: 500px;
+    margin-top: 0px;
+        
+        
+    
+}
+.banner-text{
+    padding-top: 300px;
+
+}

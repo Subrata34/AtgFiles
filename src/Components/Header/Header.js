@@ -9,7 +9,7 @@ const Header = () => {
       <div>
         <h3>ATG WORLD</h3>
       </div>
-      <div style={{marginRight:"300px",marginLeft:"320px"}}>
+      <div style={{marginRight:"290px",marginLeft:"320px"}}>
         <input
           type="text"
           style={{ width: "60%", justifyContent: "center",marginTop:"5px" }}
